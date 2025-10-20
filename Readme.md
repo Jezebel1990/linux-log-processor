@@ -61,12 +61,12 @@ O script executa uma série de etapas para tratar os arquivos `.log` gerados pel
 
 1. Dê permissão de execução ao script:
 ```bash
-chmod +x processar-logs.sh
+chmod +x monitoramento-logs.sh
 ```
 
 2. Execute o script:
 ```bash
-./processar-logs.sh
+./monitoramento-logs.sh
 ```
 
 3. Após a execução, os logs tratados e comprimidos estarão disponíveis em:
